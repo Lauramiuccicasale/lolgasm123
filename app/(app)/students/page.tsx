@@ -13,7 +13,7 @@ import {
 } from "@/lib/types";
 
 const SEED_STUDENTS = [
-  { student_code: "A-A-011108", name: "Afraa Al-abdullahDistinction", award_level: 3, det_score: 125, maths: 3, sci: 4, arabic: 3, english: 4, lss: 4 },
+  { student_code: "A-A-011108", name: "Afraa Al-abdullah", award_level: 3, det_score: 125, maths: 3, sci: 4, arabic: 3, english: 4, lss: 4 },
   { student_code: "A-A-260506", name: "Abdalkhaleq Ahmad", award_level: 2, det_score: 100, maths: 4, sci: 3, arabic: 3, english: 2, lss: 2 },
   { student_code: "A-A-010805", name: "Amal Alkhalaf", award_level: 1, det_score: 90, maths: 3, sci: 2, arabic: 2, english: 2, lss: 2 },
   { student_code: "D-H-100108", name: "Dalal Hasan", award_level: 2, det_score: 95, maths: 3, sci: 4, arabic: 3, english: 3, lss: 4 },
