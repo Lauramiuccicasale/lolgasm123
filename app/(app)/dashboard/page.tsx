@@ -20,7 +20,6 @@ import {
   EligibilityStatus,
   EligibilityResult,
   STATUS_CONFIG,
-  SUBJECTS,
   PERFORMANCE_LABELS_SHORT,
   AWARD_LABELS,
   AwardValue,
